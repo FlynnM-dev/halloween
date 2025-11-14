@@ -691,3 +691,6 @@ an.handleFilterCache = function(event) {
 
 })(createjs = createjs||{}, AdobeAn = AdobeAn||{});
 var createjs, AdobeAn;
+
+console.log(img_frame01);
+console.log(lib.img_frame01);
